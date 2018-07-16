@@ -23,7 +23,8 @@ else
 	xsetroot -solid white
 fi
 
-cp /home/webc/bg-orig${neon}.png /home/webc/bg.png
+#cp /home/webc/bg-orig${neon}.png /home/webc/bg.png
+cp /home/webc/bg-job-board.png /home/webc/bg.png
 
 if ! has_network
 then
